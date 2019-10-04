@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haeliedaij.networkmarketingph.com/sitemap.xml
